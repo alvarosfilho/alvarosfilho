@@ -11,7 +11,7 @@
   <img align="center" alt="JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
           
  ###                                
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarosfilho&show_icons=true&theme=synthwave)
+ ![Álvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarosfilho&show_icons=true&theme=synthwave)
   
 </div>
 
