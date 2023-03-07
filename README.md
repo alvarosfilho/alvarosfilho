@@ -16,11 +16,11 @@
                                 
  ![Álvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarosfilho&show_icons=true&theme=synthwave)
 
-  <img align="center" alt="JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="SPRING" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img align="center" alt="JAVA" height="50" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="SPRING" height="50" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="JAVA" height="50" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="HTML5" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="JAVA" height="50" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   
   
    ____
